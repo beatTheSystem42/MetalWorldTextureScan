@@ -94,6 +94,8 @@ class ScanViewController: UIViewController, MTKViewDelegate, ARSessionDelegate, 
     }
     
     func reset() {
+        
+        print("resetting")
         textureImgs = [:]
         
         allVerts = []
