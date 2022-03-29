@@ -91,7 +91,7 @@ vertex VertexOut anchorGeometryVertexTransform(Vertex in [[stage_in]],
     
     if (inBox[vid] == 1)
     {
-        out.color = float4(0.2, 0.28, 0.85, 0.45f);
+        out.color = float4(0.2, 0.85, 0.32, 0.45f);
         out.color2 = float4(1.0f);
     }
     else
