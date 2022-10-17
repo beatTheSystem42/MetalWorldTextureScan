@@ -70,9 +70,8 @@
 				83C2130B250EE8EC007411C2 /* LaunchScreen.storyboard */,
 				83C2130E250EE8EC007411C2 /* Info.plist */,
 			);
-			name = MetalWorldTextureScan;
-			path = /Users/quentinreiser/Desktop/MetalWorldTextureScan/MetalWorldTextureScan;
-			sourceTree = "<absolute>";
+			path = MetalWorldTextureScan;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
